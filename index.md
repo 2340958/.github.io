@@ -6,3 +6,4 @@ Maybe you find this interessting:
 
 /hashtag-pages #code
 /hashtag-pages #bash
+/hashtag-pages #shell
