@@ -1,4 +1,4 @@
-#shell
+#shell #code #bash
 
 # YesNo
 
